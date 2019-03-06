@@ -6,8 +6,7 @@ public class PantominosApp {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello World !!!");
-		//test5
-		//test7
+		//test21
 		
 	}
 
