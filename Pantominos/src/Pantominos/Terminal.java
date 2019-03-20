@@ -1,3 +1,5 @@
+package Pantominos;
+
 import java.lang.* ;
 import java.io.*;
 
